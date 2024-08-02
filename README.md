@@ -4,7 +4,8 @@
 
 ![Rufino Milat GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight)
 
-![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## Contatos
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufinissimo)
