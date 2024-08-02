@@ -2,7 +2,9 @@
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
-![GIFOLROX](https://github.com/user-attachments/assets/28bdc6ba-e629-4e77-a0da-f5c54e6ce9e9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d87b1842-b7da-4ce9-a2f8-b9ca7973d96b" >
+</p>
 
 ![Rufino Milat GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight)
 
