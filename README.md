@@ -1,6 +1,6 @@
 # Seja bem-vindo! 👨🏻‍💻
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1uDM8U0nO8lKHcYBLEEkN1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![Spotify](https://novatorem-6zqlnaxc7-rodrigos-projects-ce5cd860.vercel.app/api/spotify)](https://open.spotify.com/user/rufinissimo)
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
