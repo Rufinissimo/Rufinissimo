@@ -1,6 +1,6 @@
 # Seja bem-vindo! 👨🏻‍💻
 
-!Spotify(https://novatorem-6zqlnaxc7-rodrigos-projects-ce5cd860.vercel.app/api/spotify)](https://open.spotify.com/user/rufinissimo)
+[![Spotify](https://novatorem-6zqlnaxc7-rodrigos-projects-ce5cd860.vercel.app/api/spotify)](https://open.spotify.com/user/rufinissimo)
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
