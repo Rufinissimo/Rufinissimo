@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: seu_usuario  # Substitua pelo seu nome de usuário
+          github_user_name: Rufinissimo  # Substitua pelo seu nome de usuário
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
