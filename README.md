@@ -2,7 +2,18 @@
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
-![Rufino Milat GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight" alt="Rufino Milat GitHub stats">
+    </td>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1a1728&interchange=true&bar_color=00ccaa&bar_color_cover=false" alt="spotify-github-profile">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -50,8 +61,6 @@
 </div>
 
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1a1728&interchange=true&bar_color=00ccaa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/1ac26cbf-8c31-4297-900f-4fa1e13ec7b8" width="1080" height="600" >
