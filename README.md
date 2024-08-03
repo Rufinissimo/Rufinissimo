@@ -2,6 +2,8 @@
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
+[![Spotify](https://novatorem-jvghlulpk-rodrigos-projects-ce5cd860.vercel.app/api/spotify)](https://open.spotify.com/user/rufinissimo)
+
 ![Rufino Milat GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight)
 
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
