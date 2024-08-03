@@ -2,7 +2,7 @@
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=402277&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Rufino Milat GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight)
 
