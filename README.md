@@ -22,8 +22,6 @@
 </table>
 
 
-
-
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
 
 
@@ -33,69 +31,53 @@
 
 ## Tecnologias usadas em meus estudos
 
-<table style="width: 100%; border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>IDEs e SGBDs</h4>
-      <div style="display: inline-block; text-align: center;">
-        <div>
-          <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-          <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green" />
-        </div>
-        <div>
-          <img align="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-          <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-        </div>
+      <div>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px;" />
+        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green" style="margin: 5px;" />
+        <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="margin: 5px;" />
+        <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 5px;" />
       </div>
     </td>
-    <td>
+    <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Programas e Apps</h4>
-      <div style="display: inline-block; text-align: center;">
-        <div>
-          <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-          <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-        </div>
-        <div>
-          <img align="center" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-          <img align="center" alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-        </div>
+      <div>
+        <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin: 5px;" />
+        <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin: 5px;" />
+        <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin: 5px;" />
+        <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin: 5px;" />
       </div>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Linguagens</h4>
-      <div style="display: inline-block; text-align: center;">
-        <div>
-          <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+      <div>
+        <div style="margin-bottom: 5px;">
+          <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin: 5px;" />
         </div>
         <div>
-          <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+          <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin: 5px;" />
         </div>
       </div>
     </td>
-    <td>
+    <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Bibliotecas e Frameworks</h4>
-      <div style="display: inline-block; text-align: center;">
-        <div>
-          <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-          <img align="center" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-          <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-        </div>
-        <div>
-          <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-          <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-          <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-        </div>
+      <div>
+        <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin: 5px;" />
+        <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="margin: 5px;" />
+        <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="margin: 5px;" />
+        <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="margin: 5px;" />
+        <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 5px;" />
+        <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin: 5px;" />
       </div>
     </td>
   </tr>
 </table>
 
-
-
----
-
 <p align="center">
-  <img  src="https://github.com/user-attachments/assets/1ac26cbf-8c31-4297-900f-4fa1e13ec7b8" width="1080" height="600" >
-<p>
+  <img src="https://github.com/user-attachments/assets/1ac26cbf-8c31-4297-900f-4fa1e13ec7b8" width="1080" height="600" />
+</p>
