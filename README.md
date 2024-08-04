@@ -6,17 +6,21 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1728&title_color=00ccaa&icon_color=00ccaa" alt="Rufino Milat GitHub stats">
+      <!-- Janela de informações dos commits com tema Tokyonight -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight" alt="Rufino Milat GitHub stats">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1728&title_color=00ccaa&icon_color=00ccaa" alt="Top Langs">
+      <!-- Janela de linguagens mais usadas com tema Tokyonight -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight" alt="Top Langs">
     </td>
     <td>
       <a href="https://open.spotify.com/user/rufinissimo">
+        <!-- Janela de faixa do Spotify com suas configurações de cor atuais -->
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1a1728&bar_color=00ccaa&interchange=false" alt="spotify-github-profile">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
