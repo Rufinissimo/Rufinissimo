@@ -10,12 +10,14 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight" alt="Top Langs">
     </td>
     <td>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1a1728&interchange=true&bar_color=00ccaa&bar_color_cover=false" alt="spotify-github-profile">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
       </a>
     </td>
   </tr>
 </table>
+
+
 
 
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
