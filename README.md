@@ -10,12 +10,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight" alt="Top Langs">
     </td>
     <td>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&redirect=true">
+      <a href="https://open.spotify.com/user/rufinissimo">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
