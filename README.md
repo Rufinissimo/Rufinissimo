@@ -6,13 +6,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight" alt="Rufino Milat GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1728&title_color=00ccaa&icon_color=00ccaa" alt="Rufino Milat GitHub stats">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1728&title_color=00ccaa&icon_color=00ccaa" alt="Top Langs">
     </td>
     <td>
       <a href="https://open.spotify.com/user/rufinissimo">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1a1728&interchange=false" alt="spotify-github-profile">
       </a>
     </td>
   </tr>
