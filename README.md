@@ -2,6 +2,7 @@
 
 #### Aqui você irá encontrar alguns dos meus projetos.
 
+
 <table>
   <tr>
     <td>
@@ -16,9 +17,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
