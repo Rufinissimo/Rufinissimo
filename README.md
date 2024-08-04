@@ -33,7 +33,7 @@
 
 ## Tecnologias usadas em meus estudos
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td>
       <h4>IDEs e SGBDs</h4>
@@ -66,8 +66,12 @@
     <td>
       <h4>Linguagens</h4>
       <div style="display: inline-block; text-align: center;">
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-        <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+        <div>
+          <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+        </div>
+        <div>
+          <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+        </div>
       </div>
     </td>
     <td>
