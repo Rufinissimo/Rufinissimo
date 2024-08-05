@@ -15,7 +15,7 @@
     <td>
       <a href="https://open.spotify.com/user/rufinissimo">
         <!-- Janela de faixa do Spotify com a cor de fundo ajustada para o padrão Tokyonight -->
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00ccaa&interchange=false" alt="spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile">
       </a>
     </td>
   </tr>
