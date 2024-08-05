@@ -56,7 +56,9 @@
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Bibliotecas e Frameworks</h4>
       <div>
+        <a href="https://pandas.pydata.org/docs/index.html" >
         <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin: 5px;" />
+        </a>
         <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="margin: 5px;" />
         <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="margin: 5px;" />
         <div>
