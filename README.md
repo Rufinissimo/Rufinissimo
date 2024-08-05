@@ -2,7 +2,6 @@
 
 #### *Aqui você irá encontrar alguns dos meus projetos.*
 
-
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 10px;">
