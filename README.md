@@ -58,14 +58,16 @@
       <div>
         <a href="https://pandas.pydata.org/docs/index.html" >
         <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin: 5px;" />
+             </a>
         <a href="https://numpy.org/"
         <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="margin: 5px;" />
+             </a>
         <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="margin: 5px;" />
         <div>
         <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="margin: 5px;" />
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 5px;" />
         <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin: 5px;" />
-            </a>
+           
       </div>
     </td>
   </tr>
