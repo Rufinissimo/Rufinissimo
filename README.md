@@ -1,6 +1,6 @@
 # Seja bem-vindo! 👨🏻‍💻
 
-#### Aqui você irá encontrar alguns dos meus projetos.
+#### *Aqui você irá encontrar alguns dos meus projetos.*
 
 
 <table>
@@ -37,7 +37,7 @@
       <h4>IDEs e SGBDs</h4>
       <div>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px;" />
-        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green" style="margin: 5px;" />
+        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=green" style="margin: 5px;" />
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="margin: 5px;" />
         <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 5px;" />
       </div>
@@ -79,6 +79,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1ac26cbf-8c31-4297-900f-4fa1e13ec7b8" width="1080" height="600" />
