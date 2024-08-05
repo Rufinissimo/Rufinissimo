@@ -12,31 +12,6 @@
   <img src="https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark" style="display: block; margin: 0 auto; width: 100%;" />
 </p>
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <!-- Janela de informações dos commits com tema Tokyonight e cor de fundo ajustada -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1730" alt="Rufino Milat GitHub stats" style="display: block; margin: 0 auto; width: 100%; max-width: 100%;">
-      <br>
-      <!-- Janela de linguagens mais usadas com tema Tokyonight e cor de fundo ajustada -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1730" alt="Top Langs" style="display: block; margin: 0 auto; width: 100%; max-width: 100%;">
-    </td>
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <a href="https://open.spotify.com/user/rufinissimo">
-        <!-- Janela de faixa do Spotify com a cor de fundo ajustada para o padrão Tokyonight -->
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" style="display: block; margin: 0 auto; width: 100%; max-width: 100%;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center; padding: 10px;">
-      <!-- GIF de contribuição posicionado abaixo de todas as janelas -->
-      <img src="https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark" style="display: block; margin: 0 auto; width: 100%;">
-    </td>
-  </tr>
-</table>
-
-
 ## Contatos
 
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufinissimo)
