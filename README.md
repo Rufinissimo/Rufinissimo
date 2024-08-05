@@ -56,18 +56,25 @@
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Bibliotecas e Frameworks</h4>
       <div>
-        <a href="https://pandas.pydata.org/docs/index.html" >
+        <a href="https://pandas.pydata.org/" >
         <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin: 5px;" />
              </a>
         <a href="https://numpy.org/" >
         <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="margin: 5px;" />
              </a>
+        <a href="https://matplotlib.org/" >
         <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="margin: 5px;" />
+            </a>
         <div>
+        <a href="https://www.selenium.dev/" >
         <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="margin: 5px;" />
+            </a>
+        <a href="https://www.djangoproject.com/" >
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 5px;" />
+            </a>
+        <a href="https://flask.palletsprojects.com/en/3.0.x/" >
         <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin: 5px;" />
-           
+        </a>
       </div>
     </td>
   </tr>
