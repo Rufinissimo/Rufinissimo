@@ -25,11 +25,11 @@
 ![snake gif](https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-## Contatos
+## *Contatos*
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufinissimo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rufinissimo.dev@gmail.com)
 
-## Tecnologias usadas em meus estudos
+## *Tecnologias usadas em meus estudos*
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
