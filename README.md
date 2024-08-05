@@ -3,10 +3,10 @@
 #### *Aqui você irá encontrar alguns dos meus projetos.*
 
 <td style="vertical-align: top; padding: 10px; width: 50%;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1730" alt="Rufino Milat GitHub stats" width="400" style="display: block; margin: 0 auto; width: 50%; max-width: 100%;" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1730" alt="Top Langs" width="400" style="display: block; margin: 0 auto; width: 50%; max-width: 100%;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1730" alt="Rufino Milat GitHub stats" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1730" alt="Top Langs" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" />
     <a href="https://open.spotify.com/user/rufinissimo">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0;" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
   </a>
 <p align="center">
   <img src="https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark" style="display: block; margin: 0 auto; width: 100%;" />
