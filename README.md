@@ -24,20 +24,36 @@
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>IDEs e SGBDs</h4>
       <div>
+        <a href="https://code.visualstudio.com/" >
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px;" />
+            </a>
+        <a href="https://www.jetbrains.com/pycharm/" >
         <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=green" style="margin: 5px;" />
+            </a>
+        <a href="https://jupyter.org/" >
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="margin: 5px;" />
+            </a>
+        <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" >
         <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 5px;" />
+            </a>
       </div>
     </td>
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Programas e Apps</h4>
       <div>
+        <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" >
         <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin: 5px;" />
+            </a>
+        <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" >
         <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin: 5px;" />
+            </a>
         <div>
+        <a href="https://www.microsoft.com/pt-br/microsoft-365/word" >
         <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin: 5px;" />
+            </a>
+        <a href="https://openai.com/chatgpt/" >
         <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin: 5px;" />
+            </a>
       </div>
     </td>
   </tr>
@@ -46,10 +62,14 @@
       <h4>Linguagens</h4>
       <div>
         <div style="margin-bottom: 5px;">
+          <a href="https://www.python.org/" >
           <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin: 5px;" />
+              </a>
         </div>
         <div>
+          <a href="https://devdocs.io/c/" >
           <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin: 5px;" />
+            </a>
         </div>
       </div>
     </td>
@@ -83,5 +103,7 @@
 ---
 
 <p align="center">
+  <a href="https://www.konami.com/games/eu/en/products/castlevania2020_son/" >
   <img src="https://github.com/user-attachments/assets/1ac26cbf-8c31-4297-900f-4fa1e13ec7b8" width="1080" height="600" />
+  </a>
 </p>
