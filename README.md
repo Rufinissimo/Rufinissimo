@@ -8,7 +8,8 @@
     <a href="https://open.spotify.com/user/rufinissimo">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
   </a>
-<p align="center">
+    
+<p align="left">
   <img src="https://github.com/Rufinissimo/Rufinissimo/blob/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark" style="display: block; margin: 0 auto; width: 100%;" />
 </p>
 
