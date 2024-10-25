@@ -4,8 +4,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=1a1730&locale=en&hide_border=true" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" alt="stats graph"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rufinissimo&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=tokyonight&bg_color=1a1730&hide_border=true" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;"  alt="languages graph"/>
-<a align="middle" href="https://open.spotify.com/user/rufinissimo">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
+<a href="https://open.spotify.com/user/rufinissimo">
+<img align="middle" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
   </a>
     
 <p align="left">
