@@ -3,7 +3,7 @@
 #### *Aqui você irá encontrar alguns dos meus projetos.*
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&show_icons=true&theme=tokyonight&bg_color=1a1730" alt="Rufino Milat GitHub stats" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rufinissimo&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=tokyonight&bg_color=1a1730&hide_border=false" height="160" alt="languages graph"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufinissimo&layout=compact&theme=tokyonight&bg_color=1a1730" alt="Top Langs" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" />
 <a href="https://open.spotify.com/user/rufinissimo">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
   </a>
