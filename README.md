@@ -51,9 +51,6 @@
         <a href="https://www.microsoft.com/pt-br/microsoft-365/word" >
         <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin: 5px;" />
             </a>
-        <a href="https://openai.com/chatgpt/" >
-        <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin: 5px;" />
-            </a>
       </div>
     </td>
   </tr>
