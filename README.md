@@ -1,4 +1,4 @@
-# Seja bem-vindo! 👨🏻‍💻
+# Seja bem-vindo(a)! 👨🏻‍💻
 
 #### *Aqui você irá encontrar alguns dos meus projetos.*
 
