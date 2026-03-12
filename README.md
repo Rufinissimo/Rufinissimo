@@ -43,9 +43,9 @@
     <img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" style="margin: 5px;" />
 </a>
             </a>
-        <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" >
-        <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 5px;" />
-            </a>
+        <a href="https://www.microsoft.com/sql-server">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" style="margin: 5px;" />
+</a>
       </div>
     </td>
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
