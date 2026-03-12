@@ -33,11 +33,11 @@
             </a>
         <a href="https://jupyter.org/" >
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="margin: 5px;" />
-          <a href="https://www.jetbrains.com/idea/">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" style="margin: 5px;" />
-</a>
           <a href="https://www.eclipse.org/">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" style="margin: 5px;" />
+</a>
+          <a href="https://www.jetbrains.com/idea/">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" style="margin: 5px;" />
 </a>
           <a href="https://www.jetbrains.com/datagrip/">
     <img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" style="margin: 5px;" />
