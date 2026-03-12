@@ -27,7 +27,7 @@
       <h4>IDEs e SGBDs</h4>
       <div>
         <a href="https://code.visualstudio.com/" >
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px; display:inline-block; vertical-align:middle;" />
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px;" />
             </a>
         <a href="https://www.jetbrains.com/pycharm/" >
         <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=green" style="margin: 5px;" />
