@@ -33,6 +33,15 @@
             </a>
         <a href="https://jupyter.org/" >
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="margin: 5px;" />
+          <a href="https://www.jetbrains.com/idea/">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" style="margin: 5px;" />
+</a>
+          <a href="https://www.eclipse.org/">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" style="margin: 5px;" />
+</a>
+          <a href="https://www.jetbrains.com/datagrip/">
+    <img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" style="margin: 5px;" />
+</a>
             </a>
         <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" >
         <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 5px;" />
@@ -42,6 +51,9 @@
     <td width="50%" style="vertical-align: top; text-align: center; padding: 10px;">
       <h4>Programas e Apps</h4>
       <div>
+        <a href="https://git-scm.com/docs">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
+</a>
         <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" >
         <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin: 5px;" />
             </a>
@@ -63,11 +75,20 @@
           <a href="https://www.python.org/" >
           <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin: 5px;" />
               </a>
+          <a href="https://www.java.com/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;" />
+</a>
+          <a href="https://go.dev/">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="margin: 5px;" />
+</a>
         </div>
         <div>
           <a href="https://devdocs.io/c/" >
           <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin: 5px;" />
             </a>
+          <a href="https://www.w3schools.com/sql/">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" />
+</a>
         </div>
       </div>
     </td>
@@ -86,6 +107,9 @@
         <div>
         <a href="https://www.selenium.dev/" >
         <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="margin: 5px;" />
+          <a href="https://playwright.dev/docs/intro">
+    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" style="margin: 5px;" />
+</a>
             </a>
         <a href="https://www.djangoproject.com/" >
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 5px;" />
