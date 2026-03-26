@@ -111,6 +111,12 @@
           <a href="https://playwright.dev/docs/intro">
     <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" style="margin: 5px;" />
 </a>
+          
+<a href="https://fastapi.tiangolo.com/" >
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="margin: 5px;" />
+</a>
+
+</a>
             </a>
         <a href="https://www.djangoproject.com/" >
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 5px;" />
