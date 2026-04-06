@@ -1,6 +1,7 @@
 # Seja bem-vindo(a)! 👨🏻‍💻
 
-#### *Estudante de tecnologia e profissional com experiência adquirida em estágios nas áreas de desenvolvimento e análise de suporte. Atualmente, focado na capacitação, na evolução técnica e no aprimoramento da visão analítica para soluções direcionadas à automação de processos e processamento de dados, com ênfase na elaboração de scripts e projetos de estudo em Python, SQL e Java.* 
+#### *Profissional com experiência em desenvolvimento e análise de suporte, hoje atuo na área de engenharia e tratamento de dados, com participação em projetos voltados a Business Intelligence, contribuindo para análise e tomada de decisões estratégicas por meio da manipulação de dados e processos de ETL, com apoio de ferramentas como Apache Hop e bancos relacionais como PostgreSQL e SQL Server. Focado na evolução técnica e analítica, também desenvolvo scripts e projetos de estudo direcionados à automação de processos com ênfase em Python, Selenium, Playwright e SQL.*
+
 #### *Aqui você irá encontrar alguns dos meus projetos.* 🚀
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rufinissimo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=1a1730&locale=en&hide_border=true" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" alt="stats graph"/>
